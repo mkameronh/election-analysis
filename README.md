@@ -28,9 +28,6 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana Degette who received 73.8% of the vote and 272,892 of votes
 
-Below is a screenshot of the text file we printed the output into.
-![image](https://user-images.githubusercontent.com/90940985/148115039-dedab024-6a5a-487b-9783-b4668605d04b.png)
-
 
 ## Election-Audit Summary
 This script allowed us to find all of the above data and can be used in the future for other elections as well with just a few modifications. To use this script for other elections, we could modify the county variables/lists/dictionaries/statements to be for regions, cities, states, or other areas depending on the type of election going on. We could also modify the source file we are using to pull data from other election results. We may have to use different references if the lay out of the file is different, but the idea is still the same.
